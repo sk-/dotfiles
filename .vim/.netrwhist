@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/skreft/venvs/server/lib/python3.4/site-packages/moto/core'
+let g:netrw_dirhist_2='/Users/skreft/venvs/server/lib/python3.4/site-packages/moto/dynamodb2'
+let g:netrw_dirhist_3='/Users/skreft/venvs/server/lib/python3.4/site-packages/moto/core'
+let g:netrw_dirhist_4='/Users/skreft/venvs/server/lib/python3.4/site-packages/moto/dynamodb2'
+let g:netrw_dirhist_5='/Users/skreft/venvs/server/lib/python3.4/site-packages/moto/ec2/responses'
+let g:netrw_dirhist_6='/Users/skreft/venvs/server/lib/python3.4/site-packages/moto/s3'
+let g:netrw_dirhist_7='/Users/skreft/mac/roles/osx_common'
+let g:netrw_dirhist_8='/usr/local/etc/bash_completion.d'
+let g:netrw_dirhist_9='/Users/skreft/scikit_learn_data'
