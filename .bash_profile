@@ -17,7 +17,13 @@ if [ -f ~/.git-completion.bash ]; then
     source ~/.git-completion.bash 
 fi
 
-if [-f ~/.profile ]; then
+virtualenvwrapper=`which virtualenvwrapper.sh`
+if [ -f $virtualenvwrapper ]; then
+    export VIRTUALENVWRAPPER_PYTHON=`which python3`
+    source $virtualenvwrapper
+fi
+
+if [ -f ~/.profile ]; then
     source ~/.profile
 fi
 
